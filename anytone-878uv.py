@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Usage: anytone-878.py > output.csv
+Usage: anytone-878uv.py > output.csv
 
 RadioID JSON format:
 {"fname":"...","name":"...","country":"...","callsign":"...","city":"...","surname":"...","radio_id":int,"id":int,"remarks":"...","state":"..."}
